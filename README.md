@@ -1,6 +1,7 @@
 # 🖼️ Caltech-256 Image Classification with EfficientNetB0
 
 **CS6482 – Deep Reinforcement Learning | Assignment 1**
+
 **Contributors: Tarun Bezawada (24141771), Kedhar Eashwar (24165409)**
 
 This project tackles multi-class image classification using the **Caltech-256** dataset (30,607 images across 257 categories). We fine-tuned a pre-trained **EfficientNetB0** model using **transfer learning**, achieving a **97.88% validation accuracy**. The entire pipeline was executed on a **NVIDIA T4 GPU** with a robust, reproducible workflow.
